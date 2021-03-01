@@ -7,6 +7,8 @@ html{
 img{
   margin:0 auto;
   display:block;
+  border: 0; 
+  outline:none;
 }
 
 p.small{
