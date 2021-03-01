@@ -8,6 +8,11 @@ img{
   margin:0 auto;
   display:block;
 }
+
+p.small{
+  line-height: 50%;
+  }
+
 .milky {
     position: relative;
     margin: 0 auto;
