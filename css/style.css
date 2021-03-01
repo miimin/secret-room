@@ -12,12 +12,12 @@ img{
   display:block;
     ｝
     
-.milky {
+.milky{
     position: relative;
     margin: 0 auto;
     text-align: center; 
     font-size: 6vw; 
-    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
     color: #f1ebe5;
     text-shadow: 0 2vw 4vw #c4b59d, 0px -0.2vw 0.2vw #fff;
     font-weight: bold;
