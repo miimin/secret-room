@@ -54,14 +54,18 @@ image-vw {
 /*
 .resizeimage img { width: 50%; }*/
 
+body
+{background-image: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+}
+
 .milky {
-    background-image: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+    
     background-size: 100%;
     position: relative;
     margin: 0 auto;
     text-align: center; 
-    width: 700px;
-    height:400px;
+    width: 100x;
+    height:auto;
 
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
    /* text-transform: uppercase;
