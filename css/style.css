@@ -1,6 +1,6 @@
 
-body
-{background: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+body{
+ background: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
 }
 
 html{
