@@ -1,26 +1,24 @@
-
 body{
- background: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+  background: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
 }
-
 html{
- min-height: 100%; /*繰り返さない*/
+  min-height: 100%; /*繰り返さない*/
 }
-
 img{
   margin:0 auto;
   display:block;
-    ｝
-    
-.milky{
+}
+.milky {
     position: relative;
     margin: 0 auto;
     text-align: center; 
-    font-size: 6vw; 
+    font-size: 6vw;
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
     color: #f1ebe5;
-    text-shadow: 0 2vw 4vw #c4b59d, 0px -0.2vw 0.2vw #fff;
+    text-shadow: 0 2vw 2vw #c4b59d, 0px -0.2vw 0.2vw #fff;
     font-weight: bold;
     letter-spacing: 1vw;
- }
+    
+    
+  }
 
