@@ -64,17 +64,18 @@ body
     position: relative;
     margin: 0 auto;
     text-align: center; 
-    width: 100%;
-    height:auto;
+    font-size: 6vw;
+    /*width: 80%;
+    height: auto; */
 
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
    /* text-transform: uppercase;
     display: block;
     font-size: 72px;  */
     color: #f1ebe5;
-    text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;
+    text-shadow: 0 2vw 4vw #c4b59d, 0px -1vw 0.2vw #fff;
     font-weight: bold;
-    letter-spacing: -4px;
+    letter-spacing: 1vw;
     
     /*
     padding: 20px 70px;
