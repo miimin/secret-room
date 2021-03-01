@@ -1,27 +1,26 @@
 
 body
 {background-image: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+ white-space: nowrap;
 }
 
+img{
+  margin:0 auto;
+  display:block;
+    ｝
+    
 .milky {
     
     background-size: 100%;
     position: relative;
     margin: 0 auto;
     text-align: center; 
-    font-size: 6vw;
-    /*width: 80%;
-    height: auto; */
-
+    font-size: 6vw; 
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
-   /* text-transform: uppercase;
-    display: block;
-    font-size: 72px;  */
     color: #f1ebe5;
     text-shadow: 0 2vw 4vw #c4b59d, 0px -0.2vw 0.2vw #fff;
     font-weight: bold;
     letter-spacing: 1vw;
     
-    white-space: nowrap;
   }
 
